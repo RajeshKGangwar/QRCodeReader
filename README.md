@@ -15,7 +15,7 @@
 
 
 ## Overview
-This is an Elementry App for Detecting QRCode. The App has been Designed using Python and flask Api. The model is created by Using OpenCv and Pyzbar Library for Qr Code Detection.
+This is an Elementry App for Detecting QRCode. The App has been Designed using Python. The model is created by Using OpenCv and Pyzbar Library for Qr Code Detection.
 The App Captures live frame from webcam/device camera and returns the value of QR Code.
 
 
