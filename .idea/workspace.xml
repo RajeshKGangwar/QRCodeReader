@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="185cb772-3e21-4a3a-8b2d-67c349deef31" name="Default Changelist" comment="" />
+    <list default="true" id="185cb772-3e21-4a3a-8b2d-67c349deef31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QRCodeReader.py" beforeDir="false" afterPath="$PROJECT_DIR$/QRCodeReader.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rNVt8BIe7087AdXgb6gQ64ZLBo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/deep learning/neural network/CV projects/Mask-Detection-SSD-TFOD-master" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -119,21 +126,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="199" key="GridCell.Tab.0.bottom" timestamp="1618824256068">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1619437433373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618824256068" />
-    <state width="1515" height="199" key="GridCell.Tab.0.center" timestamp="1618824256068">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619437433373" />
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom" timestamp="1619437964855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618824256068" />
-    <state width="1515" height="199" key="GridCell.Tab.0.left" timestamp="1618824256068">
+    <state width="1515" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619437964855" />
+    <state width="1515" height="198" key="GridCell.Tab.0.center" timestamp="1619437964855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618824256068" />
-    <state width="1515" height="199" key="GridCell.Tab.0.right" timestamp="1618824256068">
+    <state width="1515" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619437964855" />
+    <state width="1515" height="198" key="GridCell.Tab.0.left" timestamp="1619437964855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618824256068" />
+    <state width="1515" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619437964855" />
+    <state width="1515" height="198" key="GridCell.Tab.0.right" timestamp="1619437964855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619437964855" />
   </component>
 </project>

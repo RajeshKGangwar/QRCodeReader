@@ -2,10 +2,10 @@ import numpy as np
 import cv2
 from pyzbar.pyzbar import decode
 
-#frame = cv2.VideoCapture(0)
-frame = cv2.VideoCapture(1)
-frame.set(3,720)
-frame.set(4,540)
+frame = cv2.VideoCapture(0)
+#frame = cv2.VideoCapture(1)
+frame.set(3,640)
+frame.set(4,480)
 
 
 with open("AuthorizedStuff.txt",'rb') as f:
@@ -33,4 +33,4 @@ while True:
         cv2.putText(img,result,(points[0],points[1]),cv2.FONT_HERSHEY_COMPLEX,0.9,color,3)
 
     cv2.imshow('QR Code Reader', img)
-    cv2.waitKey(10000)
+    cv2.waitKey(1)
